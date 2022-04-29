@@ -442,6 +442,9 @@ nav .active{
     .whychoose .row .col-md-6:first-child{
         display: none;
     }
+    .whychoose p{
+        max-width:95%;
+    }
     }
  /* end why choose us s */
  /*  start statics section  */
