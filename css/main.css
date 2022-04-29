@@ -400,8 +400,7 @@ nav .active{
     }
     .pricing .cards.row{
         margin: 4em 1em 1em;
-    }
-     
+    }  
  }
  /* end pricing section */
 
@@ -441,6 +440,9 @@ nav .active{
  @media (max-width:768px) {
     .whychoose .row .col-md-6:first-child{
         display: none;
+    }
+    .whychoose p{
+        max-width:95%;
     }
     }
  /* end why choose us s */
