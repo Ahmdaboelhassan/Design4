@@ -1,5 +1,5 @@
 // [1] suffle programming
-//buttons
+//shuffle buttons
 let shufbtns = document.querySelectorAll(".features ul li"); 
 //picture
 let pics = document.querySelectorAll(".features .imgs .row img")
